@@ -14,7 +14,7 @@
     <b-container>
       <b-row class="pt-3"><h2>Notas de examen</h2></b-row>
       <b-row class="pt-2">
-        <a href="https://sedeapl.dgt.gob.es/notasexamen/">Consultar notas de examen.</a>
+        <a href="https://sedeapl.dgt.gob.es:7443/WEB_NOTP_CONSULTA/consultaNota.faces">Consultar notas de examen.</a>
       </b-row>
     </b-container>
   </div>
