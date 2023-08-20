@@ -14,7 +14,6 @@
     <b-container  class="text-justify pt-3">
       <b-row class="pt-3"><h2>Contacte con nosotros</h2></b-row>
       <b-row class="pt-1">Calle Cervantes 28 bajo Fernán Núñez (Córdoba)</b-row>
-      <b-row class="pt-1"><a href="tel:690833811">Teléfono 690 833 811</a></b-row>
     </b-container>
   </div>
 </template>
